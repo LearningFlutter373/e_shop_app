@@ -14,6 +14,8 @@ class _SellerHomeScreenState extends State<SellerHomeScreen> {
     return Scaffold(
       body: Center(
         child: Text("Seller home page"),
+
+
       ),
     );
   }
